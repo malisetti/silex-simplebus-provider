@@ -1,5 +1,6 @@
 {
     "name": "dazz/silex-simplebus-provider",
+    "description": "Silex ServiceProvider to integrate SimpleBus",
     "license": "MIT",
     "authors": [
         {
