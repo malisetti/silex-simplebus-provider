@@ -1,0 +1,18 @@
+{
+    "name": "dazz/silex-simplebus-provider",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anne-Julia Scheuermann",
+            "email": "annejulia@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"dazz\\Silex\\SimpleBus\\": "src/"}
+    },
+    "require": {
+        "silex/silex": "~1.2",
+        "simple-bus/message-bus": "dev-master"
+    }
+}
